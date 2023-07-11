@@ -6,11 +6,11 @@ tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Disclaimer.md v1.0.5.0
 Pirates of the Keribbean (PotK)
-created: 01 Apr 2022
-updated: 07 Jul 2022
+created: 11 Jul 2023
+updated: 
 
 TEMPLATE: Disclaimer.md v1.0.2.1
-created: 01 Apr 2022
+created: 11 Jul 2023
 updated: 27 Jun 2023
 
 based upon work by godarklight -->
