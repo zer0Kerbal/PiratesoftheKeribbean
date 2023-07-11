@@ -34,14 +34,10 @@ This part addon contains twenty (20) parts and three (3) unique IVA's, all with 
 
 1. [Table of Contents](#table-of-contents)
    1. [Hero Logo/Cover](#hero-logocover)
-   2. [B](#b)
-   3. [C](#c)
-   4. [D](#d)
-   5. [E](#e)
-   6. [Jolly Roger Aerospace](#jolly-roger-aerospace)
-   7. [Let There Be Lights](#let-there-be-lights)
-   8. [Base](#base)
-   9. [Boom](#boom)
+   2. [Hero (v0.1.0.0)](#hero-v0100)
+   3. [Hero (0.2.0.0)](#hero-0200)
+   4. [Marketing Slide](#marketing-slide)
+   5. [Download banner (archive)](#download-banner-archive)
 
 ### Hero Logo/Cover
 
@@ -49,51 +45,27 @@ This part addon contains twenty (20) parts and three (3) unique IVA's, all with 
 
  <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/img/HeroLogo_1920x1920.png" alt="PiratesoftheKeribbean Hero" width="50%" height="50%">
 
-### B
+### Hero (v0.1.0.0)
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-01.png" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### C
+### Hero (0.2.0.0)
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-02.jpg" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### D
+### Marketing Slide
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-03.jpg" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
-### E
+### Download banner (archive)
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-04.jpg" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### Jolly Roger Aerospace
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-05.jpg" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### Let There Be Lights
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-06.jpg" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### Base
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-07.jpg" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
-
-<small><i>[top](#table-of-contents)</i></small>
-
-### Boom
-
-<img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/Marketing/HERO-08.jpg" alt="PiratesoftheKeribbean (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
