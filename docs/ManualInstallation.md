@@ -6,8 +6,8 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.0.5.0
 Pirates of the Keribbean (PotK)
-created: 01 Apr 2022
-updated: 07 Jul 2022
+created: 11 Jul 2023
+updated: 
 
 TEMPLATE: ManualInstallation.md v1.1.9.1
 created: 01 Feb 2022
@@ -18,7 +18,7 @@ based upon work by Lisias -->
 
 [Home](./index.md)
 
-This part addon contains over one hundred and twenty (120) parts and twenty (20) unique IVA's, all with rusty aesthetics. For Kerbal Space Program.
+This part addon contains twenty (20) parts and three (3) unique IVA's, all with pirate aesthetics. For Kerbal Space Program.
 
 ## Installation Instructions
 
