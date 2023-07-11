@@ -22,6 +22,8 @@
 ### Status 0.2.0.0
 
 * Issues
+  * updates #7 - Archival Releases
+  * closes #13 - 0.2.0.0-release - `<Archival Release>`
 
 ---
 
@@ -32,11 +34,12 @@
   * for Kerbal Space Program 1.2
   * by [GagaX](https://forum.kerbalspaceprogram.com/profile/57813-*/)
 
-* No changelog provided
+* Creation by GagaX
 
 ### Status 0.1.0.0
 
 * Issues
-
+  * updates #7 - Archival Releases
+  * closes #12 - 0.1.0.0-release - `<Archival Release>`
 
 ---

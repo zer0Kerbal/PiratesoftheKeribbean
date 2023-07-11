@@ -6,8 +6,8 @@ tags: forty-two,42,6x7,6times7,6*7,why,why-not,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Why.md v1.0.5.0
 Pirates of the Keribbean (PotK)
-created: 01 Apr 2022
-updated: 07 Jul 2022
+created: 11 Jul 2023
+updated: 
 
 TEMPLATE: Why-not.md v1.1.1.0
 created: 01 Apr 2019

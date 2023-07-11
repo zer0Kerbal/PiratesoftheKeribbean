@@ -6,8 +6,8 @@ tags: notices,legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Notices.md v1.0.5.0
 Pirates of the Keribbean (PotK)
-created: 01 Apr 2022
-updated: 07 Jul 2022
+created: 11 Jul 2023
+updated: 
 
 TEMPLATE: Notices.md v1.0.3.0
 created: 13 Apr 2022
@@ -23,8 +23,9 @@ based upon work by LisiasT -->
 
 ## Trademarks <i class="fa-solid fa-trademark fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: black" ></i>
 
-* "Rusty Star Rockets" is trademark of GagaX
-* "RSR" is trademark of GagaX
+* "Pirates of the Keribbean" is trademark of GagaX and zer0Kerbal
+* "PotK" is trademark of GagaX and zer0Kerbal
+* "Arrrgggg!" is trademark by pirates everywhere
 * Kerbal Simple Co is a trademark of [zer0Kerbal][zedK]
 * KerbSimCo is a trademark of [zer0Kerbal][zedK]
 * KerbSimpleCo is a trademark of [zer0Kerbal][zedK]
