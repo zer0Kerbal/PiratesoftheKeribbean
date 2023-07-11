@@ -3,9 +3,9 @@ Pirates of the Keribbean (PotK)
 created: 05 Nov 2022
 updated: 07 Jul 2023
 
-TEMPLATE: readme.md v1.7.4.2
-created: 17 Jul 2017
-updated: 18 Jun 2023
+TEMPLATE: readme.md v1.7.5.0
+created: 17 Aug 2016
+updated: 11 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 # [Pirates of the Keribbean (PotK)][CURSFG:url]
@@ -16,7 +16,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 _Where there is space there are space pirates._
 
-This is a fun mod because it adds parts for creating pirate spaceships. So raise your black flags and off to explore Kerbol system.
+This part addon contains twenty (20) parts and three (3) unique IVA's, all with pirate aesthetics. For Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zedK], originally by [`GagaX`][auth-link]
 
@@ -26,6 +26,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [`GagaX`][auth-link]
 
+>This is a fun mod because it adds parts for creating pirate spaceships.
+>
 >So far, there are only dozen or so parts, enough to create simple spaceplanes and rockets.
 >
 >Pirates have unique high-tech (magic) propulsion system, so they never run out of fuel (always active fuel generator).
@@ -35,6 +37,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### See More
 
 >* the latest version of this readme is always found on [GitHub][GITHUB:url]
+>* [Mod Listing (WIP)][mlist] for a list of addons by [zer0Kerbal][zedK]
 >* [ChangeLog][chlog] for more details of changes
 >* [Discussions][discu] or [forums][forum] for discussions and news
 >* [GitHub Pages][pages]
@@ -56,7 +59,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Help Wanted
 
 > * Compatibility patches
-> * Contracts for these glorious parts
+> * Contracts for these glorious parts: '_Letters of Marque_'
 > * Sample crafts/subassemblies
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Model updates (add/improve lights, iva, hatches and so forth)
@@ -88,50 +91,28 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 #### Suggests
 
+* [list][mlist] of other addons by [zer0Kerbal][zedK]
+
 * [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
-* [Behemoth Aerospace Engineering (BAE)](https://curseforge.com/kerbal/ksp-mods/BehemothAerospaceEngineerings)
-* [Biomatic (BIO)](https://curseforge.com/kerbal/ksp-mods/Biomatic)
-* [Deadly Reentry (dre)](https://forum.kerbalspaceprogram.com/index.php?/topic/50296-*/)
-* [Docking Port Descriptions (DPD)](https://curseforge.com/kerbal/ksp-mods/DockingPortDescriptions)
+* [DRELite (DREL)](https://www.curseforge.com/kerbal/ksp-mods/drelite) <small><i>Start the game. Watch the firey death.</i></small>
 * [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
 * [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
 * [Kaboom! (BOOM)](https://curseforge.com/kerbal/ksp-mods/Kaboom)
-* [MoarKerbals (MOAR)](https://curseforge.com/kerbal/ksp-mods/MoarKerbals)
-* [OhScrap! (OHS)](https://curseforge.com/kerbal/ksp-mods/OhScrap)
 * [On Demand Fuel Cells (ODFC)](https://curseforge.com/kerbal/ksp-mods/OnDemandFuelCells)
 * [Precise Maneuver (PM)](https://curseforge.com/kerbal/ksp-mods/PreciseManeuver)
-* [ScrapYard (SCRAP)](https://curseforge.com/kerbal/ksp-mods/ScrapYard)
-* [Simple Hyperdrive! (HYPE)](https://curseforge.com/kerbal/ksp-mods/SimpleHyperdrive)
 * [SimpleLogistics! (SLOG)](https://curseforge.com/kerbal/ksp-mods/SimpleLogistics)
 * [SimpleNotes! (NOTE)](https://curseforge.com/kerbal/ksp-mods/Notes)
-* [Stack Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
-* [Foundations (FND)](https://curseforge.com/kerbal/ksp-mods/Foundations) <small><i>Helps prevent ground constructions from floating away</small></i>
-* <b>Science!</b>
-  * [Mini Sample Return Capsule (MSRC)](https://www.curseforge.com/kerbal/ksp-mods/MiniSampleReturnCapsule)
-  * [Mkerb Science Instruments](https://curseforge.com/kerbal/ksp-mods/ScienceInstruments)
-  * [OScience Laboratories (OSL)](https://curseforge.com/kerbal/ksp-mods/OScienceLaboratories)
-  * [Papa Kerballini's Pizza (PIZZA)](https://curseforge.com/kerbal/ksp-mods/Pizza)
-  * [Portable Science Container (PRC)](https://curseforge.com/kerbal/ksp-mods/PortableScienceContainer)
-  * [Solar Science (SOL)](https://curseforge.com/kerbal/ksp-mods/SolarScience)
 
 #### Supports
 
-* [Community Category Kit (cck)](https://forum.kerbalspaceprogram.com/index.php?/topic/149840-*/)
-* [Community Resource Pack](https://legacy.curseforge.com/kerbal/ksp-mods/community-resource-pack)
-* [ModularManagement (MM)](https://curseforge.com/kerbal/ksp-mods/ModularManagement) or [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/)
-* [Stack Inline Lights (SIL)](https://curseforge.com/kerbal/ksp-mods/StackInlineLights)
-* [TweakScale (twk)](https://curseforge.com/kerbal/ksp-mods/TweakScale)
-* [USI Core](https://forum.kerbalspaceprogram.com/index.php?/topic/122420-*/)
-* Texture Switchers:
-  * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter)
-* Fuel Switchers:
-  * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/)
-  * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter)
+<!-- * Fuel Switchers: -->
+  <!-- * [B9 Part Switch](https://forum.kerbalspaceprogram.com/topic/140541-*/) -->
+  <!-- * [FireSpitter Core](https://legacy.curseforge.com/kerbal/ksp-mods/firespitter) -->
   <!-- * [Interstellar Fuel Switch Core](https://legacy.curseforge.com/kerbal/ksp-mods/interstellar-fuel-switch) -->
   <!-- * [Modular Fuel Tanks](http://forum.kerbalspaceprogram.com/index.php?/topic/58235-*/) -->
   <!-- * [SimpleFuelSwitch](https://forum.kerbalspaceprogram.com/topic/181274-*/) -->
-* Life Support
+<!-- * Life Support -->
   <!-- * [ECLSS](https://forum.kerbalspaceprogram.com/index.php?/topic/84197-*/) -->
   <!-- * [Kerbalism (kerb)](https://forum.kerbalspaceprogram.com/index.php?/topic/190382-*/) -->
   <!-- * [Snacks](https://forum.kerbalspaceprogram.com/index.php?/topic/149604-*/) -->
@@ -189,6 +170,7 @@ Comment, click, like, share, up-vote, subscribe
 [forum]: https://www.curseforge.com/kerbal/ksp-mods/PiratesoftheKeribbean "Pirates of the Keribbean (PotK)"
 [issue]: https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues "Issues"
 [markt]: https://zer0kerbal.github.io/PiratesoftheKeribbean/Marketing "Marketing Slicks"
+[mlist]: https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html "zer0Kerbal mod list"
 [notic]: https://zer0kerbal.github.io/PiratesoftheKeribbean/Notices "Notices"
 [pages]: https://zer0kerbal.github.io/PiratesoftheKeribbean "GitHub Pages"
 [parts]: https://zer0kerbal.github.io/PiratesoftheKeribbean/PartsCatalog "Parts Catalog"
