@@ -6,8 +6,8 @@ tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Attributions.md v1.0.5.0
 Pirates of the Keribbean (PotK)
-created: 01 Apr 2022
-updated: 07 Jul 2022
+created: 11 Jul 2023
+updated: 
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
@@ -26,7 +26,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50px" height="50px" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/" alt="Pirates of the Keribbean (PotK)"> Rusty Star Rockets!</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50px" height="50px" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/218358-*/" alt="Pirates of the Keribbean (PotK)"> Pirates of the Keribbean (PotK)</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/"><img alt="linuxgurugamer" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_09/square_800x800.thumb.png.ab7375e7b1dbf21a10e5b8697a63fa5f.png" width="50px" height="50px" > linuxgurugamer</a> for handing these off to me!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
@@ -36,15 +36,15 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 #### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
 
 >Review by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
->[![KSP Mods - Rusty Star Rockets](https://img.youtube.com/vi/G_X4xw5P5tw/0.jpg)](https://www.youtube.com/watch?v=G_X4xw5P5tw)
+>[![KSP Mods - Pirates of the Keribbean](https://img.youtube.com/vi/rpIZrnIVQYo/0.jpg)](https://www.youtube.com/watch?v=rpIZrnIVQYo)
 
 ### Flag(s)
 
-* none
+* _see:_ Rusty Star Shipyards
 
 ### Agency
 
-* none
+* _see:_ Rusty Star Shipyards
 
 ### Contract(s)
 
@@ -54,7 +54,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png" alt="English" style="zoom:100%;" /> English</li>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png" alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - grazie <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li>
+  <!-- <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png" alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - grazie <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li> -->
   <li><small><i>Additions and corrections welcome!</i></small></li>
 </ul>
 
@@ -72,7 +72,6 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 ### Art Asset(s)
 
-* Flags
 * Hero Logo/Cover - All Rights Reserved
 
 ### Testing and Support
