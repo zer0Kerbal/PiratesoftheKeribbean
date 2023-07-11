@@ -14,13 +14,9 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
-Where there is space there are space pirates.
+_Where there is space there are space pirates._
 
-This is a fun mod, it adds parts for creating pirate spaceships. So far, there are only dozen or so parts, enough to create simple spaceplanes and rockets.
-
-Pirates have unique high-tech (magic) propulsion system, so they never run out of fuel (always active fuel generator).
-
-So raise your black flags and off to explore Kerbol system.
+This is a fun mod because it adds parts for creating pirate spaceships. So raise your black flags and off to explore Kerbol system.
 
 ## By [`zer0Kerbal`][zedK], originally by [`GagaX`][auth-link]
 
@@ -30,9 +26,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Preamble by [`GagaX`][auth-link]
 
->Where there is space there are space pirates.
->
->This is a fun mod, it adds parts for creating pirate spaceships. So far, there are only dozen or so parts, enough to create simple spaceplanes and rockets.
+>So far, there are only dozen or so parts, enough to create simple spaceplanes and rockets.
 >
 >Pirates have unique high-tech (magic) propulsion system, so they never run out of fuel (always active fuel generator).
 >
