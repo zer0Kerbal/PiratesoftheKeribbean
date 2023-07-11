@@ -6,8 +6,8 @@ tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Marketing.md v1.0.5.0
 Pirates of the Keribbean (PotK)
-created: 01 Apr 2022
-updated: 07 Jul 2022
+created: 11 Jul 2023
+updated: 
 
 TEMPLATE: Marketing.md v1.1.0.0
 created: 13 Apr 2022
@@ -24,7 +24,7 @@ this file:
 
 ## [Pirates of the Keribbean (PotK)][mod] <!-- omit from toc -->
 
-This part addon contains over one hundred and twenty (120) parts and twenty (20) unique IVA's, all with rusty aesthetics. For Kerbal Space Program.
+This part addon contains twenty (20) parts and three (3) unique IVA's, all with pirate aesthetics. For Kerbal Space Program.
 
 [Home](./index.md)
 
