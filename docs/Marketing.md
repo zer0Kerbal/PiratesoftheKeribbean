@@ -43,7 +43,7 @@ This part addon contains twenty (20) parts and three (3) unique IVA's, all with 
 
 [top](#table-of-contents)
 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/img/HeroLogo_1920x1920.png" alt="PiratesoftheKeribbean Hero" width="50%" height="50%">
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/img/HeroLogo.png" alt="PiratesoftheKeribbean Hero" width="50%" height="50%">
 
 ### Hero (v0.1.0.0)
 
