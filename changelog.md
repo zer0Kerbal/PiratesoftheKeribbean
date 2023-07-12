@@ -10,6 +10,25 @@
 | spacedock  | (https://spacedock.info/mod/903)                                   |
 | ckan       | PiratesoftheKeribbean                                              |
 
+## Version 0.9.99.0-adoption - `<Thank you GagaX>` edition
+
+* Released
+  * 07 Jul 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+* 📌 Pinned
+  * Dependencies:
+    * [Rusty Star Shipyards (RSS)](https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)
+  * search for `potk` in editors to local all parts in this pact
+  * <ghostparts.cfg> is provided for testing
+
+  * closes #7 - Archival Releases
+  * closes #12 - 0.1.0.0-release - `<Archival Release>`
+  * closes #13 - 0.2.0.0-release - `<Archival Release>`
+
+---
+
 ## Version 0.2.0.0-release `<Archival>` edition
 
 * Released
