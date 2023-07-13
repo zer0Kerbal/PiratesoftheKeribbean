@@ -1,13 +1,15 @@
-<!-- readme.md v1.8.99.4
+<!-- readme.md v0.9.99.0
 Pirates of the Keribbean (PotK)
-created: 05 Nov 2022
-updated: 07 Jul 2023
+created: 17 Aug 2016
+updated: 11 Jul 2023
 
 TEMPLATE: readme.md v1.7.5.0
 created: 17 Aug 2016
 updated: 11 Jun 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+<small><i> — post will self update; latest readme always on GitHub. most images are links —</i></small>
+
 # [Pirates of the Keribbean (PotK)][CURSFG:url]
 
 [![Pirates of the Keribbean (PotK)][SHD:mod]][CURSFG:url]  
@@ -167,7 +169,7 @@ Comment, click, like, share, up-vote, subscribe
 [attrb]: https://zer0kerbal.github.io/PiratesoftheKeribbean/Attributions "Attribution"
 [chlog]: https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/changelog.md  "Changelog"
 [discu]: https://github.com/zer0Kerbal/PiratesoftheKeribbean/discussions "Discussions"
-[forum]: https://www.curseforge.com/kerbal/ksp-mods/PiratesoftheKeribbean "Pirates of the Keribbean (PotK)"
+[forum]: https://forum.kerbalspaceprogram.com/topic/218358-*/ "Pirates of the Keribbean (PotK)"
 [issue]: https://github.com/zer0Kerbal/PiratesoftheKeribbean/issues "Issues"
 [markt]: https://zer0kerbal.github.io/PiratesoftheKeribbean/Marketing "Marketing Slicks"
 [mlist]: https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html "zer0Kerbal mod list"
@@ -182,7 +184,7 @@ Comment, click, like, share, up-vote, subscribe
 <!--- mod and license provenance -->
 [0:dwn]: https://spacedock.info/mod/903 "SpaceDock"
 [0:src]: https://spacedock.info/mod/903 "SpaceDock"
-[0:thr]: https://forum.kerbalspaceprogram.com/index.php?/topic/124362-*/ "KSP Forum"
+[0:thr]: https://forum.kerbalspaceprogram.com/index.php?/topic/146068-*/ "KSP Forum"
 
 [0:log]: https://licensebuttons.net/i/l/by-nc-nd/transparent/33/66/99/76x22.png "CC BY-NC-ND 4.0"
 [0:shd]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-ef9421?labelColor=black&style=plastic&logoColor=ef9421&logo=creativecommons "CC BY-NC-ND 4.0"
