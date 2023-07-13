@@ -26,6 +26,7 @@
 klaw-0625
 potk-flag-medium
 potk-flag-large
+potk-gear-xl.cfg v1.0.0.0
 
 
   * closes #7 - Archival Releases
