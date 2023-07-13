@@ -23,6 +23,9 @@
   * search for `potk` in editors to local all parts in this pact
   * <ghostparts.cfg> is provided for testing
 
+klaw-0625
+
+
   * closes #7 - Archival Releases
   * closes #12 - 0.1.0.0-release - `<Archival Release>`
   * closes #13 - 0.2.0.0-release - `<Archival Release>`
