@@ -24,6 +24,8 @@
   * <ghostparts.cfg> is provided for testing
 
 klaw-0625
+potk-flag-medium
+potk-flag-large
 
 
   * closes #7 - Archival Releases
