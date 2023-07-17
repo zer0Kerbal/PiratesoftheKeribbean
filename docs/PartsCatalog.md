@@ -35,15 +35,40 @@ This part addon contains twenty (20) parts and three (3) unique IVA's, all with 
 ---
 
  <!-- <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/ -->
+<!-- " alt=" -->
+ <!-- " width="25%" height="25%" /> -->
 
 ### Command
 
-PoK_ARR-02
-PoK_ccp
-PoK_CP
+* ARR-01
+* ARR-02
+* ARR-03
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-01_icon.png" 
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-02_icon.png" 
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-03_icon.png" 
 
 [top](#parts-catalog)
-
+potk-aero-125-cone_icon.png
+potk-aero-wing-0_icon.png
+potk-aero-wing-1_icon.png
+potk-aero-wing-2_icon.png
+potk-core-125_icon.png
+potk-eng-125-patrick_icon.png
+potk-eng-125-sandy_icon.png
+potk-flag-large_icon.png
+potk-flag-medium_icon.png
+potk-flag-small_icon.png
+potk-gear-large_icon.png
+potk-gear-medium_icon.png
+potk-gear-small_icon.png
+potk-klaw-125_icon.png
+potk-klaw-0625_icon.png
+potk-rcs_icon.png
+potk-struct-adapter_icon.png
+potk-struct-fuselage-125_icon.png
+potk-struct-fuselage-x_icon.png
+potk-tank-125_icon.png
 
 ### Aero
 
