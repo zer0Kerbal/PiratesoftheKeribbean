@@ -18,7 +18,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 _Where there is space there are space pirates._
 
-This part addon contains twenty (20) parts and three (3) unique IVA's, all with pirate aesthetics. For Kerbal Space Program.
+This part addon contains the original twenty (20) and three (3) new parts along with three (3) unique IVA's, all with pirate aesthetics. For Kerbal Space Program.
 
 ## By [`zer0Kerbal`][zedK], originally by [`GagaX`][auth-link]
 
