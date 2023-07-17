@@ -31,8 +31,9 @@
 * First of several staged updates
 * Hard dependency is Rusty Star Shipyards (RSS)
   * provides agent, flags, and other common files
-* Updated License: CC BY-ND 4.0
-* New compatibility: GimbalTrim
+* New
+  * Parts: three new parts
+  * Compatibility: GimbalTrim
 
 ### Changes 0.9.99.0
 
@@ -45,7 +46,7 @@
 #### Parts 0.9.99.0
 
 * NEW parts
-  * 0.625m ARRR-klaw
+  * ARRR-klaw 1.25m
   * Flag
     * medium
     * large
