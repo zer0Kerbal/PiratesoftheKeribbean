@@ -7,7 +7,7 @@ tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 <!-- PartsCatalog.md v1.0.5.0
 Pirates of the Keribbean (PotK)
 created: 11 Jul 2023
-updated: 
+updated:
 
 TEMPLATE: PartsCatalog.md v1.1.4.3
 created: 01 Feb 2022
@@ -21,7 +21,7 @@ updated: 01 May 2023 -->
 
 ## Parts Catalog
 
-This part addon contains twenty (20) parts and three (3) unique IVA's, all with pirate aesthetics. For Kerbal Space Program.
+This part addon contains twenty-three (23) parts and three (3) unique IVA's, all with pirate aesthetics. For Kerbal Space Program.
 
 1. [Parts Catalog](#parts-catalog)
    1. [Command](#command)
@@ -29,14 +29,13 @@ This part addon contains twenty (20) parts and three (3) unique IVA's, all with 
    3. [Engine](#engine)
    4. [Fuel Tank(s)](#fuel-tanks)
    5. [Structural](#structural)
-   6. [Utility](#utility)
-   7. [Wheel](#wheel)
+   6. [Control](#control)
+   7. [Coupling](#coupling)
+   8. [Resources](#resources)
+   9. [Utility](#utility)
+   10. [Landing Gear](#landing-gear)
 
 ---
-
- <!-- <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/ -->
-<!-- " alt=" -->
- <!-- " width="25%" height="25%" /> -->
 
 ### Command
 
@@ -44,80 +43,103 @@ This part addon contains twenty (20) parts and three (3) unique IVA's, all with 
 * ARR-02
 * ARR-03
 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-01_icon.png" 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-02_icon.png" 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-03_icon.png" 
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-01_icon.png" alt="ARR-01" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-02_icon.png" alt="ARR-02" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-command-arr-03_icon.png" alt="ARR-03" width="25%" height="25%" />
 
 [top](#parts-catalog)
-potk-aero-125-cone_icon.png
-potk-aero-wing-0_icon.png
-potk-aero-wing-1_icon.png
-potk-aero-wing-2_icon.png
-potk-core-125_icon.png
-potk-eng-125-patrick_icon.png
-potk-eng-125-sandy_icon.png
-potk-flag-large_icon.png
-potk-flag-medium_icon.png
-potk-flag-small_icon.png
-potk-gear-large_icon.png
-potk-gear-medium_icon.png
-potk-gear-small_icon.png
-potk-klaw-125_icon.png
-potk-klaw-0625_icon.png
-potk-rcs_icon.png
-potk-struct-adapter_icon.png
-potk-struct-fuselage-125_icon.png
-potk-struct-fuselage-x_icon.png
-potk-tank-125_icon.png
 
 ### Aero
 
-PoK_cone
-PoK_wings
-PoK_wings
-PoK_wings
+* Cone
+* Wing 0
+* Wing 1
+* Wing 2
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-aero-125-cone_icon.png" alt="Cone" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-aero-wing-0_icon.png" alt="Wing 0" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-aero-wing-1_icon.png" alt="Wing 1" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-aero-wing-2_icon.png" alt="Wing 2" width="25%" height="25%" />
 
 [top](#parts-catalog)
-
 
 ### Engine
 
-PoK_engine
-PoK_RE
+* Patrick
+* Sandy (radial)
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-eng-125-patrick_icon.png" alt="Patrick" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-eng-125-sandy_icon.png" alt="Sandy (radial)" width="25%" height="25%" />
 
 [top](#parts-catalog)
-
 
 ### Fuel Tank(s)
 
-PoK_FuelTank
+* 1.25m Fuel Tank
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-tank-125_icon.png" alt="1.25m Fuel Tank" width="25%" height="25%" />
 
 [top](#parts-catalog)
-
 
 ### Structural
 
-PoK_adapter1
-PoK_fuselage
-PoK_fuselageX
+* Adapter 1.25m to Z-S1
+* 1.25m Fuselage
+* FuselageX Z-S1 to Z-S1
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-struct-adapter_icon.png" alt="Adapter 1.25m to Z-S1" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-struct-fuselage-125_icon.png" alt="1.25m Fuselage" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-struct-fuselage-x_icon.png" alt="FuselageX Z-S1 to Z-S1" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
+### Control
+
+* Multiport RCS
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-rcs_icon.png" alt="Multiport RCS" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+### Coupling
+
+* ARRR-Klaw 0.625m
+* ARRR-Klaw 1.25m
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-klaw-125_icon.png" alt="Arrr-Klaw 0.625m" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-klaw-0625_icon.png" alt="Arrr-Klaw 1.25m" width="25%" height="25%" />
+
+[top](#parts-catalog)
+
+### Resources
+
+* Core - Generator
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-core-125_icon.png" alt="Core - Generator" width="25%" height="25%" />
+
+[top](#parts-catalog)
 
 ### Utility
 
-PoK_flag
-PoK_core
-PoK_GrapplingDevice
-PoK_RCS
+* Flag antenna small
+* Flag antenna medium
+* Flag antenna large
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-flag-small_icon.png" alt="Flag antenna small" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-flag-medium_icon.png" alt="Flag antenna medium" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-flag-large_icon.png" alt="Flag antenna large" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
-### Wheel
+### Landing Gear
 
-PoK_GearLarge
-PoK_GearMedium
-PoK_GearSmall
+* Gear - Small
+* Gear - Medium
+* Gear - Large
+
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-gear-small_icon.png" alt="Gear - Small" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-gear-medium_icon.png" alt="Gear - Medium" width="25%" height="25%" />
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/docs/thumbs/potk-gear-large_icon.png" alt="Gear - Large" width="25%" height="25%" />
 
 [top](#parts-catalog)
 
