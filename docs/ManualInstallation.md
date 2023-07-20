@@ -80,13 +80,13 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         + [Spaces]
           ...
-          ManualInstallation.htm
         * #.#.#.#.htm
         * Attributions.htm
         * CC-BY-ND-4.0+ARR.txt
         * changelog.md
-        * readme.htm
+        * ManualInstallation.htm
         * PiratesoftheKeribbean.version
+        * readme.htm
       ...
     * ModuleManager.ConfigCache
   * KSP.log
