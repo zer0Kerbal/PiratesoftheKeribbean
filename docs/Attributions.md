@@ -4,7 +4,7 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Attributions.md v1.0.5.0
+<!-- Attributions.md v1.0.6.0
 Pirates of the Keribbean (PotK)
 created: 11 Jul 2023
 updated: 
@@ -54,6 +54,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <ul>
   <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png" alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png" alt="French (Français)" style="zoom:100%" > French (Français)</a> - merci <a href="https://github.com/vijay-varadarajan" alt="French (Français)">vijay-varadarajan!</a></li>
   <!-- <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/IT.png" alt="Italiano" style="zoom:100%;" /> Italian (Italiano) - grazie <a href="https://github.com/MattNot" alt="MattNot">Mattnot</a></li> -->
   <li><small><i>Additions and corrections welcome!</i></small></li>
 </ul>
