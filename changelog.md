@@ -10,6 +10,10 @@
 | spacedock  | (https://spacedock.info/mod/903)                                   |
 | ckan       | PiratesoftheKeribbean                                              |
 
+* 📌 Pinned
+  * Dependencies:
+    * [Rusty Star Shipyards (RSS)](https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)
+
 ## Version 0.9.99.0-adoption - `<Thank you GagaX>` edition
 
 * Released
