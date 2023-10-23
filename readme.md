@@ -56,6 +56,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 ### Localization
 
 >* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
+>* ![French (Français)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français) - merci [vijay-varadarajan](https://github.com/vijay-varadarajan)
 >* ***your translation here***
 
 ### Help Wanted
