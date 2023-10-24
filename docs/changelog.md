@@ -60,8 +60,8 @@ CC BY-ND 4.0 by zer0Kerbal -->
 #### Status 0.9.99.1
 
 * Issues
-  * closes #41 - 0.9.99.1 Additional Tasks
   * closes #40 - Pirates of the Keribbean (PotK) 0.9.99.1-prerelease `<Merci vijay-varadarajan>` edition
+  * closes #41 - 0.9.99.1 Additional Tasks
 
 ---
 
