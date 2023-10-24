@@ -4,10 +4,10 @@ title: Attributions
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Attributions.md v1.0.6.0
+<!-- Attributions.md v1.0.1.0
 Pirates of the Keribbean (PotK)
 created: 11 Jul 2023
-updated: 
+updated: 21 Oct 2023
 
 TEMPLATE: Attributions.md v1.0.9.0
 created: 01 Feb 2022
