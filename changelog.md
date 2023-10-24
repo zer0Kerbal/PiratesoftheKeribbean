@@ -17,7 +17,7 @@
 ## Version 0.9.99.1-prerelease - `<Merci vijay-varadarajan>` edition
 
 * Released
-  * 21 Oct 2023
+  * 22 Oct 2023
   * for Kerbal Space Program 1.12.5
   * by [zer0Kerbal](https://github.com/zer0Kerbal)
 
@@ -36,6 +36,8 @@
 * Update
   * add header, give credit
     * [fr-fr.cfg] v1.0.1.0
+* closes #22 - French (Français) <fr-fr.cfg>
+* updates #17 - Localization - Master
 
 #### Documentation 0.9.99.1
 
@@ -47,8 +49,8 @@
 #### Status 0.9.99.1
 
 * Issues
-  * closes #52 - 0.9.99.1 Additional Tasks
-  * closes #51 - Протон (PROTON) 0.9.99.1-prerelease `<Merci vijay-varadarajan>` edition
+  * closes #41 - 0.9.99.1 Additional Tasks
+  * closes #40 - Pirates of the Keribbean (PotK) 0.9.99.1-prerelease `<Merci vijay-varadarajan>` edition
 
 ---
 
