@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.6.0
+<!-- Localizations.md v1.0.1.0
 Pirates of the Keribbean (PotK)
 created: 11 Jul 2023
-updated: 
+updated: 21 Oct 2023
 
 TEMPLATE: Localizations.md v1.2.0.0
 created: 01 Feb 2022
