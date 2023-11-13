@@ -25,6 +25,51 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * Dependencies:
     * [Rusty Star Shipyards (RSS)](https://www.curseforge.com/kerbal/ksp-mods/RustyStarShipyards)
 
+## Version 0.9.99.2-adoption - `<Bedankt Sjorza>` edition
+
+* Released
+  * 12 Nov 2023
+  * for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Change Summary 0.9.99.2
+
+* Correct typo in Pirate ARR-02 Inline Cockpit description
+  * Bedankt [Sjorza](https://github.com/Sjorza)
+* Add ![Dutch (Nederlands))](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch (Nederlands) localization
+  * Bedankt [Sjorza](https://github.com/Sjorza)
+
+#### Localization 0.9.99.2
+
+* Add
+  * Dutch (Nederlands)
+    * [nl-nl.cfg] v1.0.0.0
+    * Bedankt [Sjorza](https://github.com/Sjorza)
+* Update
+  * [en-us.cfg] v1.0.1.0
+    * correct typo in Pirate ARR-01 Cockpit
+    * Bedankt [Sjorza](https://github.com/Sjorza)
+  * add header, give credit
+    * [nl-nl.cfg] v1.0.1.0
+* closes #29 - Dutch (Nederlands) <nl-nl.cfg>
+* updates #18 - English <en-us.cfg>
+* updates #17 - Localization - Master
+
+#### Documentation 0.9.99.2
+
+* Update
+  * [readme.md] v0.9.99.2
+  * [Attributions.md] v1.0.2.0
+  * [Localizations.md] v1.0.2.0
+
+### Status 0.9.99.2
+
+* Issues
+  * closes #45 - Pirates of the Keribbean (PotK) 0.9.99.2-prerelease `<Bedankt Sjorza>` edition
+  * closes #46 - 0.9.99.2 Additional Tasks
+
+---
+
 ## Version 0.9.99.1-prerelease - `<Merci vijay-varadarajan>` edition
 
 * Released
@@ -57,7 +102,7 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * [Attributions.md] v1.0.1.0
   * [Localizations.md] v1.0.1.0
 
-#### Status 0.9.99.1
+### Status 0.9.99.1
 
 * Issues
   * closes #40 - Pirates of the Keribbean (PotK) 0.9.99.1-prerelease `<Merci vijay-varadarajan>` edition

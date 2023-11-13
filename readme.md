@@ -1,20 +1,21 @@
-<!-- readme.md v0.9.99.0
+<!-- readme.md v0.9.99.2
 Pirates of the Keribbean (PotK)
 created: 17 Aug 2016
-updated: 11 Jul 2023
+updated: 12 Nov 2023
 
-TEMPLATE: readme.md v1.7.5.0
-created: 17 Aug 2016
-updated: 11 Jun 2023
+TEMPLATE: readme.md v1.7.6.1
+created: 17 Jul 2017
+updated: 12 Nov 2023
 
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
+# [Pirates of the Keribbean (PotK)][C:url]
+
 <small><i> — post will self update; latest readme always on GitHub. most images are links —</i></small>
 
-# [Pirates of the Keribbean (PotK)][CURSFG:url]
 
-[![Pirates of the Keribbean (PotK)][SHD:mod]][CURSFG:url]  
-[![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
-[![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
+[![Pirates of the Keribbean (PotK)][SHD:mod]][C:url]  
+[![KSP version][K:shd]][K:url] [![License][LIC:shd]][LIC:url]  
+[![Curseforge][C:shd]][C:url] [![GitHub][G:shd]][G:url] [![Pages][SHD:pgs]][pages]
 
 _Where there is space there are space pirates._
 
@@ -38,7 +39,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### See More
 
->* the latest version of this readme is always found on [GitHub][GITHUB:url]
+>* the latest version of this readme is always found on [GitHub][G:url]
 >* [Mod Listing (WIP)][mlist] for a list of addons by [zer0Kerbal][zedK]
 >* [ChangeLog][chlog] for more details of changes
 >* [Discussions][discu] or [forums][forum] for discussions and news
@@ -57,6 +58,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 >* ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English
 >* ![French (Français)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français) - merci [vijay-varadarajan](https://github.com/vijay-varadarajan)
+>* ![Dutch (Nederlands))](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch (Nederlands) - bedankt [Sjorza](https://github.com/Sjorza)
 >* ***your translation here***
 
 ### Help Wanted
@@ -67,7 +69,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 > * Variant textures and model updates (add/improve: lights, iva, hatches et al)
 > * Model updates (add/improve lights, iva, hatches and so forth)
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
+> * Translations: See the [README's in the Localization folder](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md) for instructions for adding or improving translations. There is also the [quick start guide(s)](https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/quickstart.md). [GitHub][G:url] push is the best way to contribute. *Additions and corrections welcome!*
 > * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ### Installation Directions
@@ -81,7 +83,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * 📌 Pinned
   * Dependencies:
     * [Rusty Star Shipyards (RSS)](https://curseforge.com/kerbal/ksp-mods/RustyStarShipyards)<small><i>agent, flags, common files</i></small>
-    * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url]
+    * [Kerbal Space Program][K:url] [![Kerbal Space Program][K:shd]][K:url]
 
 #### Recommends  
 
@@ -142,7 +144,7 @@ parts, config, science
 
 #### Author (1) - [`zer0Kerbal`][zedK]
 
-> Forum: [Thread][forum] - Source: [GitHub][GITHUB:url] - Download: [CurseForge][CURSFG:url]  
+> Forum: [Thread][forum] - Source: [GitHub][G:url] - Download: [CurseForge][C:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 
 #### Original (ROOT) (0) - Author: [`GagaX`][auth-link]
@@ -199,15 +201,15 @@ Comment, click, like, share, up-vote, subscribe
 [LIC:sp:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/PiratesoftheKeribbean "Curseforge"
-[CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
+[C:url]: https://www.curseforge.com/kerbal/ksp-mods/PiratesoftheKeribbean "Curseforge"
+[C:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[GITHUB:url]: https://github.com/zer0Kerbal/PiratesoftheKeribbean/ "GitHub"
-[GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
+[G:url]: https://github.com/zer0Kerbal/PiratesoftheKeribbean/ "GitHub"
+[G:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 <!-- Kerbal Space Program -->
-[KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
-[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/json/ksp.json "Kerbal Space Program"
+[K:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
+[K:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/PiratesoftheKeribbean/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/ "GagaX"
