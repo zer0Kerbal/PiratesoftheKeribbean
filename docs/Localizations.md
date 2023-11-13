@@ -4,10 +4,10 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-<!-- Localizations.md v1.0.1.0
+<!-- Localizations.md v1.0.2.0
 Pirates of the Keribbean (PotK)
 created: 11 Jul 2023
-updated: 21 Oct 2023
+updated: 12 Nov 2023
 
 TEMPLATE: Localizations.md v1.2.0.0
 created: 01 Feb 2022
@@ -25,6 +25,7 @@ has been translated into the following languages:
 
 * ![English](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/EN.png) English <us-en.cfg>
 * ![Français (French)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/FR.png) French (Français) <fr-fr.cfg>
+* ![Dutch (Nederlands)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch (Nederlands) <nl-nl.cfg>
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
@@ -40,7 +41,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 
 * ![Español Mexicano (Mexican Spanish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/MX.png) Mexican Spanish (Español Mexicano) <es-mx.cfg>
 * ![한국어 (Korean)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/KO.png) Korean (한국어) <ko.cfg>
-* ![Dutch (Nederlands)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NL.png) Dutch (Nederlands) <nl-nl.cfg>
 * ![Norsk (Norwegian)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/NO.png) Norwegian (Norsk) <no-no.cfg>
 * ![Polski (Polish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/PO.png) Polish (Polski) <pl.cfg>
 * ![Svenska (Swedish)](https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/img/SW.png) Swedish (Svenska) <sw-sw.cfg>
